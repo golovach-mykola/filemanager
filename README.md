@@ -6,7 +6,7 @@ Install:
 
 
 API methods:
-GET /api/file/list - get file list
-GET /api/file?file=filename - get file by name
-POST /api/file - upload file [field name must be "file"]
-DELETE /api/file?file=filename - delete file
+1) GET /api/file/list - get file list
+2) GET /api/file?file=filename - get file by name
+3) POST /api/file - upload file [field name must be "file"]
+4) DELETE /api/file?file=filename - delete file
